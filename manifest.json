@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Google Services",
+  "description": "Tired of constantly opening a new tab or having to type the Google service domain correctly? Don't worry, now you can access all of them with just 1 click through this extension.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
